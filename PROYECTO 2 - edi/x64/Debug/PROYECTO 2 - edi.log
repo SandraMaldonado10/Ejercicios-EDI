@@ -1,0 +1,46 @@
+﻿  PruebasVoVConsultas.cpp
+C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\Consulta.h(16,10): fatal  error C1083: No se puede abrir el archivo incluir: 'Paciente.h': No such file or directory
+  PruebasVoVMedicos.cpp
+  VoVConsultas.cpp
+C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\Consulta.h(16,10): fatal  error C1083: No se puede abrir el archivo incluir: 'Paciente.h': No such file or directory
+  VoVMedicos.cpp
+  VoVPacientes.cpp
+C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\VoVPacientes.h(11,10): fatal  error C1083: No se puede abrir el archivo incluir: 'Paciente.h': No such file or directory
+  ColaPacientes.cpp
+  Consulta.cpp
+  Hospital.cpp
+  ListaPacientes.cpp
+  Paciente.cpp
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\Paciente.cpp(72,16): error C2660: 'PilaInformes::borrarInformesMedico': la función no acepta 0 argumentos
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\PilaInformes.h(21,7): message : vea la declaración de 'PilaInformes::borrarInformesMedico'
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\Paciente.cpp(72,16): message : al hacer coincidir la lista de argumentos '()'
+  PilaInformes.cpp
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\PilaInformes.cpp(20,11): error C2086: 'Informe *in': nueva definición
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\PilaInformes.cpp(15,11): message : vea la declaración de 'in'
+  PruebasCons.cpp
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\PruebasCons.cpp(8,10): fatal  error C1083: No se puede abrir el archivo incluir: 'PruebasConsulta.h': No such file or directory
+  PruebasPac.cpp
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\PruebasPac.cpp(8,10): fatal  error C1083: No se puede abrir el archivo incluir: 'PruebasPaciente.h': No such file or directory
+  PruebasVOVPacientes.cpp
+  Servicio.cpp
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\Servicio.cpp(21,17): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Prog_principal.cpp
+  PruebasColaPacientes.cpp
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\PruebasColaPacientes.cpp(13,17): warning C4101: 'cp1': variable local sin referencia
+  Generando código...
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\PruebasColaPacientes.cpp(27): error C4700: se utilizó la variable local 'cp2' sin inicializar
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\PruebasColaPacientes.cpp(28): error C4700: se utilizó la variable local 'cp3' sin inicializar
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\PruebasColaPacientes.cpp(100): error C4700: se utilizó la variable local 'cp6' sin inicializar
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\PruebasColaPacientes.cpp(61): error C4700: se utilizó la variable local 'cp4' sin inicializar
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\PruebasColaPacientes.cpp(112): error C4700: se utilizó la variable local 'cp7' sin inicializar
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\PruebasColaPacientes.cpp(66): error C4700: se utilizó la variable local 'colaAux' sin inicializar
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\PruebasColaPacientes.cpp(77): error C4700: se utilizó la variable local 'cp5' sin inicializar
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\PruebasColaPacientes.cpp(132): error C4700: se utilizó la variable local 'cp8' sin inicializar
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\PruebasVOVPacientes.cpp(13): error C4700: se utilizó la variable local 'vovP1' sin inicializar
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\PruebasVOVPacientes.cpp(73): error C4700: se utilizó la variable local 'vovP4' sin inicializar
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\PruebasVOVPacientes.cpp(23): error C4700: se utilizó la variable local 'vovP2' sin inicializar
+D:\VISUAL STUDIO\PROYECTO 2 - edi\PROYECTO 2 - edi\PruebasVOVPacientes.cpp(45): error C4700: se utilizó la variable local 'vovP3' sin inicializar
+C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\PruebasVoVMedicos.cpp(13): error C4700: se utilizó la variable local 'vovM1' sin inicializar
+C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\PruebasVoVMedicos.cpp(72): error C4700: se utilizó la variable local 'vovM4' sin inicializar
+C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\PruebasVoVMedicos.cpp(23): error C4700: se utilizó la variable local 'vovM2' sin inicializar
+C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\PruebasVoVMedicos.cpp(44): error C4700: se utilizó la variable local 'vovM3' sin inicializar

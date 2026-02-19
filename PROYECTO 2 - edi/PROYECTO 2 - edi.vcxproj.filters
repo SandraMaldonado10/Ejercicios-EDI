@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\FechaYHora.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\Medico.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Informe.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ColaPacientes.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Servicio.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ListaPacientes.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Hospital.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\PruebasMedico.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\PruebasVoVConsultas.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\PruebasVoVMedicos.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\VoVConsultas.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\VoVMedicos.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\VoVPacientes.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ListaMedicos.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="PilaInformes.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Paciente.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Prog_principal.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="PruebasPac.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="PruebasCons.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Consulta.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="PruebasVOVPacientes.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="PruebasColaPacientes.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="PruebasInforme.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="PruebasPilaInformes.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="PruebasServicio.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="PruebasListaPacientes.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="PruebasListaMedicos.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ColaPacientes.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\FechaYHora.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Hospital.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="ListaMedicos.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Informe.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="ListaDPI.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="ListaPacientes.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 2\Pila.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PilaInformes.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\PruebasMedico.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\PruebasVoVConsultas.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\PruebasVoVMedicos.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Servicio.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\VoVConsultas.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\VoVMedicos.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 1\NuevoProyectoEDI\src\VoVPacientes.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Paciente.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PruebasPac.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PruebasCons.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Consulta.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PruebasVOVPacientes.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PruebasColaPacientes.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Cola.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PruebasInforme.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Medico.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PruebasPilaInformes.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PruebasServicio.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PruebasListaPacientes.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PruebasListaMedicos.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 2\Ficheros para la entrega 02\informes.csv" />
+    <None Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 2\Ficheros para la entrega 02\medicos.csv" />
+    <None Include="C:\Users\Sandra Maldonado\Desktop\Sandriita_10\1º (segundo semestre)\EDI\Proyecto 2\Ficheros para la entrega 02\pacientes.csv" />
+  </ItemGroup>
+</Project>
